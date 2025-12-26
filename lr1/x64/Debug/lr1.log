@@ -1,0 +1,16 @@
+﻿  compiler.cpp
+D:\practice\lr1\lr1\common.h(66,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“compiler.cpp”)
+  
+D:\practice\lr1\lr1\compiler.cpp(85,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\practice\lr1\lr1\compiler.cpp(97,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+D:\practice\lr1\lr1\common.h(66,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  semantic.cpp
+D:\practice\lr1\lr1\common.h(66,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“semantic.cpp”)
+  
+  正在生成代码...
+  lr1.vcxproj -> D:\practice\lr1\x64\Debug\lr1.exe
